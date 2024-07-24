@@ -1,4 +1,4 @@
-# Splendor-Hotel-Group-Analysis-Using-Power-BI
+# Splendor-Hotel-Group-Analysis-Using-Power-BI                  ![](hotel.png)
 
 ___
 
